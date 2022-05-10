@@ -1,2 +1,2 @@
-# course-angular-hora-codar
-project angular 2
+# Project in Angular 2
+
