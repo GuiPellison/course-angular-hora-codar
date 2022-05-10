@@ -1,2 +1,2 @@
-# Project in Angular 2
+## Project in Angular 2
 
